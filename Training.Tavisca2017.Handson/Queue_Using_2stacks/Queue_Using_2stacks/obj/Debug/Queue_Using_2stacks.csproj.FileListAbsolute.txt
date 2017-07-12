@@ -1,0 +1,6 @@
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\obj\Debug\Queue_Using_2stacks.csprojResolveAssemblyReference.cache
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\bin\Debug\Queue_Using_2stacks.exe.config
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\bin\Debug\Queue_Using_2stacks.exe
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\bin\Debug\Queue_Using_2stacks.pdb
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\obj\Debug\Queue_Using_2stacks.exe
+D:\tavisca.training2017.handson\Queue_Using_2stacks\Queue_Using_2stacks\obj\Debug\Queue_Using_2stacks.pdb
