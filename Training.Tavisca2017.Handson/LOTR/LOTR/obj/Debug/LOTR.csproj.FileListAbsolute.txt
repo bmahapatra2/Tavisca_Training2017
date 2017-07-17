@@ -1,0 +1,6 @@
+D:\tavisca.training2017.handson\LOTR\LOTR\bin\Debug\LOTR.exe.config
+D:\tavisca.training2017.handson\LOTR\LOTR\bin\Debug\LOTR.exe
+D:\tavisca.training2017.handson\LOTR\LOTR\bin\Debug\LOTR.pdb
+D:\tavisca.training2017.handson\LOTR\LOTR\obj\Debug\LOTR.csprojResolveAssemblyReference.cache
+D:\tavisca.training2017.handson\LOTR\LOTR\obj\Debug\LOTR.exe
+D:\tavisca.training2017.handson\LOTR\LOTR\obj\Debug\LOTR.pdb
