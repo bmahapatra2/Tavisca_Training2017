@@ -1,0 +1,6 @@
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\bin\Debug\Gandiff.exe.config
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\bin\Debug\Gandiff.exe
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\bin\Debug\Gandiff.pdb
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\obj\Debug\Gandiff.csprojResolveAssemblyReference.cache
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\obj\Debug\Gandiff.exe
+c:\users\bmahapatra\documents\visual studio 2017\Projects\Gandiff\Gandiff\obj\Debug\Gandiff.pdb

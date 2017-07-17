@@ -1,0 +1,6 @@
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\bin\Debug\CodeJam4.exe.config
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\bin\Debug\CodeJam4.exe
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\bin\Debug\CodeJam4.pdb
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\obj\Debug\CodeJam4.csprojResolveAssemblyReference.cache
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\obj\Debug\CodeJam4.exe
+c:\users\bmahapatra\documents\visual studio 2017\Projects\CodeJam4\CodeJam4\obj\Debug\CodeJam4.pdb
